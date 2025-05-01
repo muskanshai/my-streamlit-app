@@ -1,0 +1,9 @@
+streamlit
+python-dotenv
+openai
+faiss-cpu
+PyPDF2
+langchain
+python-dotenv
+streamlit
+pip freeze
